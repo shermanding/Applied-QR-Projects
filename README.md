@@ -1,2 +1,2 @@
-# projects
-Repository of projects
+# Projects
+Repository of projects done with institutions for research
